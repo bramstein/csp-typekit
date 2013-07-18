@@ -1,0 +1,15 @@
+{
+  "name": "csp-typekit",
+  "version": "0.1.0",
+  "description": "An example of how to use the Content Security Policy with Typekit.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~3.3.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/bramstein/csp-typekit.git",
+  "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com)",
+  "license": "BSD"
+}
