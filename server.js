@@ -14,7 +14,7 @@ var policy = [
 
   // data://: needed for embedded base64 encoded fonts
   // use.typekit.net: needed for externally loaded fonts
-  "font-src 'self' data://* use.typekit.net",
+  "font-src 'self' data: use.typekit.net",
 
   // p.typekit.net: used for tracking font usage and paying foundries
   "img-src 'self' p.typekit.net"
